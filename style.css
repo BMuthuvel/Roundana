@@ -559,7 +559,7 @@ nav .fa{
 	font-size: 24px;
    }
 }
-@media (min-width: 768px) and (max-width: 1023px){
+@media (min-width: 768px) and (max-width: 1024px){
    .text-box h1{
 	font-size: 80px;
    }
