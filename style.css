@@ -122,46 +122,18 @@ nav .fa{
    font-size: 36px;
    font-weight: 600;
 }
-.semiyaice img{
+.movies img{
    width: 1080px;
    height: 80%;
    padding-top: 50px;
 }   
-.semiyaice p{
+.movies p{
    padding-top: 20px;
 }
-.semiyaice h3{
+.movies h3{
    padding-top: 10px;
 }
-.semiyaice a{
-   margin-top: 10px;
-}
-.vaailasani img{
-   width: 1080px;
-   height: 80%;
-   padding-top: 50px;
-}   
-.vaailasani p{
-   padding-top: 20px;
-}
-.vaailasani h3{
-   padding-top: 10px;
-}
-.vaailasani a{
-   margin-top: 10px;
-}
-.pk img{
-   width: 1080px;
-   height: 80%;
-   padding-top: 50px;
-}   
-.pk p{
-   padding-top: 20px;
-}
-.pk h3{
-   padding-top: 10px;
-}
-.pk a{
+.movies a{
    margin-top: 10px;
 }
 
